@@ -5,7 +5,7 @@
 
 ### OSINT INTELLIGENCE & RECONNAISSANCE TOOL
 
-![Bloodroot Banner](assets/bloodroot-banner.png)
+![Bloodroot Banner](assets/banner.png)
 
 **Discover. Investigate. Expose.**
 
