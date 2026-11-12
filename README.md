@@ -37,18 +37,6 @@ Designed with simplicity, functionality, and extensibility in mind, Bloodroot ai
 - **IP Intelligence** — Explore publicly available IP and network information.
 - **Modular Architecture** — Designed for future tools and integrations.
 
-*Features depend on the modules implemented in the current release.*
-
-## Preview
-
-<div align="center">
-
-<!-- Add screenshots of your application here -->
-
-`Dashboard` • `Investigation` • `Results`
-
-</div>
-
 ## Technology & Ecosystem
 
 <div align="center">
@@ -62,22 +50,26 @@ Designed with simplicity, functionality, and extensibility in mind, Bloodroot ai
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone BloodRoot
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd bloodroot
+cd BloodRoot
 ```
 
 Install the required dependencies according to your environment:
 
 ```bash
-# Add your project-specific dependency installation command here
+pip install -r requirements.txt
 ```
 
 Start the application using the appropriate command for your implementation.
+
+```bash
+python3 osint.py -h
+```
 
 ## Usage
 
@@ -87,26 +79,9 @@ Start the application using the appropriate command for your implementation.
 4. Execute the investigation.
 5. Review and organize the collected results.
 
-## Project Structure
-
-```text
-bloodroot/
-├── assets/
-│   ├── bloodroot-banner.png
-│   └── logos/
-├── modules/
-├── config/
-├── includes/
-├── index.php
-└── README.md
-```
-
-*Example structure — adapt it to your actual repository.*
-
 ## Development
 
 Bloodroot is designed to evolve through new modules, improvements, and integrations.
-
 Contributions, suggestions, and constructive feedback are welcome.
 
 ## Disclaimer
