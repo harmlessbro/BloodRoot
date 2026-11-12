@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "tool": "Self-OSINT",
+    "started": "2026-08-29T11:11:16.201899",
+    "finished": "2026-08-29T11:11:16.850035"
+  },
+  "github_deep": {
+    "error": "GitHub user 'BugWithLegs' not found",
+    "findings": []
+  }
+}
