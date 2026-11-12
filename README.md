@@ -53,7 +53,7 @@ Designed with simplicity, functionality, and extensibility in mind, Bloodroot ai
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=github,linux,python,js,php,html,css,mysql,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=,python&theme=dark" />
 
 </div>
 
